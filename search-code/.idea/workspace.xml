@@ -1,0 +1,171 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="75610007-ee0c-4706-8894-bea3dd1269ba" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../opp-polymorphism/.idea/vcs.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="QODANA_PROBLEMS_VIEW_TAB" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 3
+}</component>
+  <component name="ProjectId" id="36bgp87EEqPcj0N1gpEgl0vjg2k" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.A01_BasicSearchDemo1.executor": "Run",
+    "Application.A01_BasicSearchDemo2.executor": "Run",
+    "Application.A01_BasicSearchDemo3.executor": "Run",
+    "Application.A02_BinarySearchDemo1.executor": "Run",
+    "Application.A03_BlockSearchDemo1.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "D:/code/2025/java/opp-polymorphism",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "advanced.settings",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.A01_BasicSearchDemo3">
+    <configuration name="A01_BasicSearchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwater.A01_BasicSearchDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A01_BasicSearchDemo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwater.A01_BasicSearchDemo2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A01_BasicSearchDemo3" type="Application" factoryName="Application" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwater.A01_BasicSearchDemo3" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A02_BinarySearchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwater.A02_BinarySearchDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="A03_BlockSearchDemo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kwater.A03_BlockSearchDemo1" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kwater.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.A01_BasicSearchDemo3" />
+      <item itemvalue="Application.A01_BasicSearchDemo1" />
+      <item itemvalue="Application.A01_BasicSearchDemo2" />
+      <item itemvalue="Application.A02_BinarySearchDemo1" />
+      <item itemvalue="Application.A03_BlockSearchDemo1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.A03_BlockSearchDemo1" />
+        <item itemvalue="Application.A02_BinarySearchDemo1" />
+        <item itemvalue="Application.A01_BasicSearchDemo2" />
+        <item itemvalue="Application.A01_BasicSearchDemo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9f38398b9061-18abd8497189-intellij.indexing.shared.core-IU-241.14494.240" />
+        <option value="bundled-js-predefined-1d06a55b98c1-74d2a5396914-JavaScript-IU-241.14494.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="75610007-ee0c-4706-8894-bea3dd1269ba" name="Changes" comment="" />
+      <created>1765280865912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1765280865912</updated>
+      <workItem from="1765280866946" duration="3731000" />
+      <workItem from="1765284968526" duration="46000" />
+      <workItem from="1765285314168" duration="16000" />
+      <workItem from="1765291017100" duration="8000" />
+      <workItem from="1765291127013" duration="19000" />
+      <workItem from="1765378582531" duration="2229000" />
+      <workItem from="1765381250137" duration="109000" />
+      <workItem from="1765381509082" duration="27000" />
+      <workItem from="1765381669200" duration="80000" />
+      <workItem from="1765381758923" duration="561000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
